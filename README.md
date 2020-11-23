@@ -1,2 +1,2 @@
-# Montri-vue
+# Montri-js
 Created with CodeSandbox
